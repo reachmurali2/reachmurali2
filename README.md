@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MURALI KRISHNA
-- 👀 I’m interested in Data Science, 
-- 🌱 I’m I am passionate about transforming complex business problems into actionable insights and building AI-powered applications.
--    Interests :
+- 👀
+- 🌱 I’m a **Data Scientist** passionate about transforming complex business problems into actionable insights and building AI-powered applications.
+-    My Interests are:
      - Data Science, Machine Learning, and Deep Learning :
      - Generative AI (Large Language Models, Image Generation)
      - AI Agents & Agentic Workflows, Building AI Agents and Multi-Agent Systems
