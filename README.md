@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @reachmurali2
-- 👀 I’m interested in Data Science, AI
-- 🌱 I’m currently learning Generative AI
-- 💞️ I’m looking to collaborate on Ai agentic and agents 
-- 📫 How to reach me https://www.linkedin.com/in/murali-krishna-reddy-b-37687979/
+- 👋 Hi, I’m MURALI KRISHNA
+- 👀 I’m interested in Data Science, 
+- 🌱 I’m I am passionate about transforming complex business problems into actionable insights and building AI-powered applications.
+- 💞️ Collaboration Interests on AI Agentic Projects, Generative AI Applications, Open-source AI tools, Real-time Data Science Dashboards
+- 📫 How to reach me https://www.linkedin.com/in/murali-krishna-reddy-b-37687979/ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murali%20Krishna-blue)](https://www.linkedin.com/in/murali-krishna-reddy-b-37687979/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
