@@ -13,7 +13,7 @@
     ## 💻 Technical Stack
     -   **Languages:** Python, SQL
     -   **ML & DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
-    -   **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+    -   **Visualization:** Matplotlib, Seaborn,  Tableau
     -   **Deployment:** FastAPI, Docker, Streamlit
     -   **Data Handling:** Pandas, NumPy, SQL
     -   **Tools:** MLflow, Jupyter Notebook, GitHub, Google Colab
