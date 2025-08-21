@@ -14,7 +14,7 @@
     -   **Languages:** Python, SQL
     -   **ML & DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
     -   **Visualization:** Matplotlib, Seaborn,  Tableau
-    -   **Deployment:** FastAPI, Docker, Streamlit
+    -   **Deployment:** FastAPI, MLFlow, Streamlit
     -   **Data Handling:** Pandas, NumPy, SQL
     -   **Tools:** MLflow, Jupyter Notebook, GitHub, Google Colab
     -   **Special Focus:** AI Agents, Generative AI, LLM Workflows
